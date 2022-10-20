@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "CLK Nails",
+        "slug"      : "clk-nails", 
+        "phone"     : "714 519-3035", 
+        "email"     : "clk.nails1919@gmail.com",
+        "address"   : "141 E Imperial Hwy SUITE C, Fullerton, Califonia 92835",
+        "time_1"    : "Mon - Fri: 00:00 AM - 00:00 PM",
+        "time_2"    : "Sat : 00:00 AM - 00:00 PM",
+        "time_3"    : "Sun: 00:00 AM - 00:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/clknailsincalifornia/",
+        "instagram" :   "https://www.instagram.com/clk_nails/",
+        "google"    :   "https://goo.gl/maps/M7qwCgsJ5K72oawbA", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDg2ODR8Y2xrbmFpbHMwODB8Q0FfMDgwNjN8ZWU2NWMxYTUxYmI3NDIyZjNmOWViMzM5ZDRmYTBhZWM=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13243.609589926096!2d-117.9308929!3d33.9179115!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4ba1cfd0c1866129!2sCLK%20Nails!5e0!3m2!1svi!2s!4v1666173324512!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#E94C45",
+        "primary_light"         :   "#ff7272",
+        "primary_hover"         :   "#E94C45",
+        "secondary"             :   "#232323",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#E94C45",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "assets/images",
+    "domain":       "http://127.0.0.1:5500/"
+}
